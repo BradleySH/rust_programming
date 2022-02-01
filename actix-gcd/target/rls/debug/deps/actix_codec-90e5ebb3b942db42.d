@@ -1,0 +1,9 @@
+/Users/bradleyhorlander/rust_programming/actix-gcd/target/rls/debug/deps/actix_codec-90e5ebb3b942db42.rmeta: /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/bradleyhorlander/rust_programming/actix-gcd/target/rls/debug/deps/actix_codec-90e5ebb3b942db42.d: /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs:
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs:
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs:
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs:
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs:

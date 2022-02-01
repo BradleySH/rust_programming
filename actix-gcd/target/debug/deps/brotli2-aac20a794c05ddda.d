@@ -1,0 +1,11 @@
+/Users/bradleyhorlander/rust_programming/actix-gcd/target/debug/deps/brotli2-aac20a794c05ddda.rmeta: /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/lib.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/raw.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/bufread.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/read.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/write.rs
+
+/Users/bradleyhorlander/rust_programming/actix-gcd/target/debug/deps/libbrotli2-aac20a794c05ddda.rlib: /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/lib.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/raw.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/bufread.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/read.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/write.rs
+
+/Users/bradleyhorlander/rust_programming/actix-gcd/target/debug/deps/brotli2-aac20a794c05ddda.d: /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/lib.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/raw.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/bufread.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/read.rs /Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/write.rs
+
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/lib.rs:
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/raw.rs:
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/bufread.rs:
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/read.rs:
+/Users/bradleyhorlander/.cargo/registry/src/github.com-1ecc6299db9ec823/brotli2-0.3.2/src/write.rs:
