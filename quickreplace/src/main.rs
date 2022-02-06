@@ -60,4 +60,25 @@ fn main() {
             std::process::exit(1);
         }
     };
+
+    let replaced_data = match replace(&args.target, &args.replacement, &data) {
+        Ok(v) => v,
+        Err(e) => {
+            eprintln!("{} failed to replace text: {:?}", "Error".red().bold(), e);
+            std::process::exit(1);
+        }
+    };
+
+    match fs::write(&args.output, &replaced_data) {
+        Ok(v) => v,
+        Err(e) => {
+            eprintln!(
+                "{} failed to write file '{}': {:?}",
+                "Error".red().bold(),
+                args.filename,
+                e
+            );
+            std::process::exit(1);
+        }
+    };
 }
